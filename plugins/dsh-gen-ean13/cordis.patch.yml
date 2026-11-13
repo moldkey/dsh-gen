@@ -1,0 +1,4 @@
+# 生成器：EAN-13 条码
+- insert:
+    - id: dsh-gen-ean13
+      name: "dsh-gen-ean13"

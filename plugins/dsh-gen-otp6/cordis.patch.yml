@@ -1,0 +1,4 @@
+# 生成器：6 位验证码
+- insert:
+    - id: dsh-gen-otp6
+      name: "dsh-gen-otp6"

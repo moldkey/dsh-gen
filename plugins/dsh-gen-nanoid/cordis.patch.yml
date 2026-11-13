@@ -1,0 +1,4 @@
+# 生成器：生成 NanoID
+- insert:
+    - id: dsh-gen-nanoid
+      name: "dsh-gen-nanoid"

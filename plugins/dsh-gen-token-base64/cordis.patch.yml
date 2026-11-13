@@ -1,0 +1,4 @@
+# 生成器：Base64 Token
+- insert:
+    - id: dsh-gen-token-base64
+      name: "dsh-gen-token-base64"

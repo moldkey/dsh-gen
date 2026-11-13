@@ -1,0 +1,4 @@
+# 生成器：随机 IPv4
+- insert:
+    - id: dsh-gen-ipv4
+      name: "dsh-gen-ipv4"

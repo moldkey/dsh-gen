@@ -1,0 +1,4 @@
+# 生成器：生成密码
+- insert:
+    - id: dsh-gen-password
+      name: "dsh-gen-password"

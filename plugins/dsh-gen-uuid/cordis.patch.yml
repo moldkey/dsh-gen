@@ -1,0 +1,4 @@
+# 生成器：生成 UUID
+- insert:
+    - id: dsh-gen-uuid
+      name: "dsh-gen-uuid"

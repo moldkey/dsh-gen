@@ -1,0 +1,4 @@
+# 生成器：手机号
+- insert:
+    - id: dsh-gen-fake-phone
+      name: "dsh-gen-fake-phone"
